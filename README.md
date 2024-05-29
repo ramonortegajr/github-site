@@ -5,4 +5,4 @@
 - View Pushes
 - etc.
 # Test Website 
-- https://ramortega-github-site.netlify.app/
+- https://tinyurl.com/akong-github
