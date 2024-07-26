@@ -5,4 +5,4 @@
 - View Pushes
 - etc.
 # Test Website 
-- https://github-site.vercel.app
+- https://tinyurl.com/git-sayt
