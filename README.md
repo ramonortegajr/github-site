@@ -5,4 +5,4 @@
 - View Pushes
 - etc.
 # Test Website 
-- https://tinyurl.com/akong-github
+- https://github-site.vercel.app
